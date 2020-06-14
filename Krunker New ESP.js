@@ -2,7 +2,7 @@
 // @name         Krunker NameTags👑
 // @namespace    ⭐️
 // @version      2.5.2☑️
-// @description  Why am I able to see names through walls
+// @description  I can see the enemy through wall😱
 // @author       JAVA Plus 𝓧
 // @match        *://krunker.io/*
 // @run-at       document-start
