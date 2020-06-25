@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker NameTags👑
 // @namespace    ⭐️
-// @version      2.5.2☑️
+// @version      2.5.☑️
 // @description  I can see the enemy through wall😱
 // @author       JAVA Plus 𝓧
 // @match        *://krunker.io/*
