@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker NameTags👑
 // @namespace    ⭐️
-// @version      2.5.☑️
+// @version      2.5.8☑️
 // @description  I can see the enemy through wall😱
 // @author       JAVA Plus 𝓧
 // @match        *://krunker.io/*
@@ -35,6 +35,3 @@
         return data;
     }
 })();
-
-==============================================
-//It working in vr 2.5.2 But Idk it work in vr 2.5.3
