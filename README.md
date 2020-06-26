@@ -6,5 +6,4 @@ __________________________________
 >**KRUNKER JAVA Plus 𝓧**
 - I will work hard to make AImbot in krunker.io
 __________________________________
->'I will post soon Unlimit ESP (MAC only)
-__________________________________
+
