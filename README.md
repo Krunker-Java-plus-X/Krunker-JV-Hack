@@ -11,5 +11,5 @@ __________________________________
 >When Script not work
 Tell me PLS
 __________________________________
-Auto Bhop and ESP coming soon
+Auto Bhop and ESP mods coming soon!!
 __________________________________
