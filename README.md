@@ -6,7 +6,7 @@ __________________________________
 with font changer
 __________________________________
 >**KRUNKER JAVA Plus 𝓧**
-- I will work hard to make AImbot in krunker.io
+- Make Extension Krunker Hack 
 __________________________________
 >When Script not work
 Tell me PLS
