@@ -6,4 +6,6 @@ __________________________________
 >**KRUNKER JAVA Plus 𝓧**
 - I will work hard to make AImbot in krunker.io
 __________________________________
-
+>When Script not work
+Tell me PLS
+__________________________________
