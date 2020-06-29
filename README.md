@@ -1,4 +1,5 @@
 # Krunker-JV-Hack just with fontchanger
+# And krunker Zares Teleport
 Krunker New ESP HAX (2.5.9+)
 __________________________________
 >`Krunker.io Hack v2.5.9✔️`
